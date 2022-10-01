@@ -31,14 +31,6 @@ This repository contains frontend projects that will help you to become an ace F
 
 The goal is to be well versed with HTML, CSS, JavaScript and Browser APIs such as localStorage, IndexDB, etc.
 
-## 🎯 All Projects
-The list of projects are given below -
-
-- [01 - Counter](https://master-web-development.netlify.app/projects/counter/index.html)
-- [02 - Rating System](https://master-web-development.netlify.app/projects/rating%20system/)
-- [03 - Love Calculator](https://master-web-development.netlify.app/projects/love%20calculator/)
-- [04 - Planets](https://master-web-development.netlify.app/projects/plants/)
-
 
 
 <center><h1 align="center">Getting Started  </h1></center>
