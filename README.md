@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="master-web-development.netlify.app">
-    <img alt="30 Days 30 Projects" height="80" src="./assets/image/add-readme.png">
-  </a>
-</p>
-<h1 align="center">Master Web Development</h1>
-
-<div align="center">
-  Learn by building simple projects, using HTML, CSS, JS.
-</div>
 
 <br />
 
